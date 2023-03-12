@@ -1,2 +1,2 @@
 # Devdetective
-## Link :- https://new-weather-app-1.netlify.app/
+## Link :- https://devdetective-joginder.netlify.app/
